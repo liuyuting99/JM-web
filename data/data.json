@@ -1,0 +1,83 @@
+{
+  "company": {
+    "name": "芜湖聚美新材料科技有限公司",
+    "enName": "Wuhu Jumei New Material Technology Co., Ltd.",
+    "slogan": "改性塑料专业研发、生产、销售服务商",
+    "tel": "填写联系电话",
+    "address": "安徽芜湖",
+    "email": "business@jumai-material.com"
+  },
+  "productCate": [
+    {"id":1,"name":"改性PP","ename":"Modified PP"},
+    {"id":2,"name":"改性PE","ename":"Modified PE"},
+    {"id":3,"name":"改性PA","ename":"Modified PA"},
+    {"id":4,"name":"改性PET","ename":"Modified PET"},
+    {"id":5,"name":"改性TPU","ename":"Modified TPU"}
+  ],
+  "products": [
+    {
+      "id": 1001,
+      "cid": 1,
+      "title": "玻纤增强改性PP",
+      "spec": "高刚性、低翘曲、耐热改性聚丙烯",
+      "image": "assets/images/pro_pp.jpg",
+      "desc": "玻纤增强PP，具备高模量、耐温优良，适用于家电结构件、汽车内外饰、水泵壳体，可提供阻燃、增韧、耐候等级定制。"
+    },
+    {
+      "id": 1002,
+      "cid": 1,
+      "title": "无卤阻燃PP",
+      "spec": "UL94 V0级，低烟无卤",
+      "image": "assets/images/pro_pp2.jpg",
+      "desc": "环保无卤阻燃聚丙烯，低析出，适合电子电器外壳、充电桩配件。"
+    },
+    {
+      "id": 1003,
+      "cid": 2,
+      "title": "增韧耐候改性PE",
+      "spec": "LLDPE/HDPE改性，抗低温冲击",
+      "image": "assets/images/pro_pe.jpg",
+      "desc": "改性聚乙烯，耐低温、耐老化、耐化学腐蚀，广泛用于管材、容器、户外零部件。"
+    },
+    {
+      "id": 1004,
+      "cid": 3,
+      "title": "玻纤增强PA6/PA66",
+      "spec": "高强度、耐磨、耐油尼龙",
+      "image": "assets/images/pro_pa.jpg",
+      "desc": "增强尼龙，耐磨耐油，尺寸稳定性好，应用连接器、齿轮、气动元件。可增韧耐寒、阻燃改性。"
+    },
+    {
+      "id": 1005,
+      "cid": 4,
+      "title": "增强阻燃改性PET",
+      "spec": "高刚性、耐热、低翘曲",
+      "image": "assets/images/pro_pet.jpg",
+      "desc": "玻纤增强PET，热变形温度高，绝缘性能优异，适用于电子连接器、线圈骨架。"
+    },
+    {
+      "id": 1006,
+      "cid": 5,
+      "title": "耐磨透明TPU",
+      "spec": "高弹性、耐油、耐磨热塑性聚氨酯",
+      "image": "assets/images/pro_tpu.jpg",
+      "desc": "挤出/注塑级TPU，高回弹、抗撕裂，可做管材、密封件、线缆护套、柔性结构件。"
+    }
+  ],
+  "news": [
+    {
+      "id": 2001,
+      "title": "改性塑料新能源领域应用持续拓展",
+      "date": "2026-07-20",
+      "summary": "新能源汽车、储能行业对低VOC、阻燃改性材料需求持续增长。",
+      "content": "完整正文内容：新能源赛道带动改性PP、PA、PET材料需求，低气味、无卤阻燃、轻量化材料成为主流发展方向。芜湖聚美新材料持续推进环保改性塑料配方开发，面向汽车、储能、电子行业提供定制化材料方案。"
+    },
+    {
+      "id": 2002,
+      "title": "TPU弹性材料在密封与线缆行业的应用方案",
+      "date": "2026-07-15",
+      "summary": "不同硬度TPU材料选型指南，耐磨耐油工况选材参考。",
+      "content": "热塑性聚氨酯TPU拥有宽广硬度区间，兼顾弹性与机械强度。适合动态密封、柔性管线、耐磨护套。公司可根据使用温度、介质环境定制改性TPU牌号。"
+    }
+  ]
+}
