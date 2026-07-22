@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>跳转中</title>
+<script>
+  const path = location.pathname + location.search + location.hash;
+  sessionStorage.setItem('ghpages_path', path);
+  location.href = '/';
+</script>
+</head>
+<body></body>
+</html>
